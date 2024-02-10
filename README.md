@@ -37,7 +37,7 @@ We hope PlexChecker enhances your Plex experience. Contributions, suggestions, a
 ```python
 while True:
     main()
-    time.sleep(300)  # Waits for 5 minutes.
+    time.sleep(300)  # Check status every 5 minutes.
 ```
 - **Logging:** By default, the script creates a log file in the same location as PlexChecker.py. You can disable this feature in the script if preferred.
 
