@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>PlexChecker.py</string>
+    <key>ProgramArguments</key>
+    <array>
+        <string>/Applications/Python 3.12/Python Launcher.app</string> <!-- Adjust this path to your Python interpreter -->
+        <string>/Users/macmini/Desktop/PlexChecker/PlexChecker.py</string> <!-- Adjust this path to your script location -->
+    </array>
+    <key>StandardErrorPath</key>
+    <string>/var/log/PlexChecker.error</string>
+    <key>KeepAlive</key>
+    <true/>
+</dict>
+</plist>
