@@ -26,7 +26,7 @@ You can now launch `PlexChecker.py`. Quit Plex Media Server and wait (the defaul
 
 ## Share & Enjoy
 
-We hope PlexChecker enhances your Plex experience. Contributions, suggestions, and feedback are welcome! Feel free to open an issue or pull request.
+Contributions, suggestions, and feedback are welcome! Feel free to open an issue or pull request.
 
 ## Notes
 
